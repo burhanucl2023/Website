@@ -213,12 +213,12 @@ input, select, textarea {
 }
 
 #profile-box .headshot{
-	border-radius: 5%;
-	width: 50%;
+	border-radius: 50%;
+	width: 70%;
 	margin: 0;
-	top: 30%;
-	-ms-transform: translateY(30%);
-	transform: translateY(30%);
+	top: 5%;
+	-ms-transform: translateY(5%);
+	transform: translateY(5%);
 
 }
 
